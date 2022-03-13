@@ -4,4 +4,4 @@
 
 Uma simples página de Usuário e Senha, feita em HTML e CSS.
 
-![picture](https://user-images.githubusercontent.com/78765220/158079473-34fdc563-de79-4685-bf97-68e064dabbf8.png)
+![picture](https://user-images.githubusercontent.com/78765220/158079721-e2b71566-a12d-4b3e-bb38-1ad856c8872c.png)
